@@ -26,8 +26,7 @@ A PNAD, conduzida pelo IBGE, investiga várias características da população b
   - Grande parte possuía ensino fundamental incompleto ou médio completo, e a maioria frequentou aulas presenciais ou semipresenciais durante a pandemia.
     
 **Sintomas e Doenças Preexistentes**
-  - Principais sintomas para casos positivos de COVID-19 incluíam dor de cabeça, tosse e febre.
-  -Cerca de um terço dos entrevistados relatou ter doenças prévias, como hipertensão e diabetes.
+  - Principais sintomas para casos positivos de COVID-19 incluíam dor de cabeça, tosse e febre. Cerca de um terço dos entrevistados relatou ter doenças prévias, como hipertensão e diabetes.
 
 **Medidas e Acesso à Saúde**
   - A maioria adotou medidas restritivas para evitar a propagação do vírus.
