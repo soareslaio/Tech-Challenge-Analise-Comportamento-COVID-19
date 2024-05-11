@@ -37,3 +37,5 @@ A PNAD, conduzida pelo IBGE, investiga várias características da população b
   - Utilização de dados da PNAD para desenvolver um modelo preditivo de infecção por COVID-19.
   - Análise estatística e modelagem para prever resultados de testes de COVID-19 com base em características demográficas e condições pré-existentes.
   - Resultados do modelo indicaram uma capacidade sólida de previsão, com espaço para otimização contínua.
+    
+Análise aprofundada: https://medium.com/@laiosoares6/objetivo-analisar-dados-da-pnad-durante-a-pandemia-covid-19-e-analisar-comportamentos-e-poss%C3%ADveis-956c107c3bd4
