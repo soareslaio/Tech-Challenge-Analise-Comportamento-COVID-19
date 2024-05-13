@@ -39,3 +39,14 @@ A PNAD, conduzida pelo IBGE, investiga várias características da população b
   - Resultados do modelo indicaram uma capacidade sólida de previsão, com espaço para otimização contínua.
     
 Análise aprofundada: https://medium.com/@laiosoares6/objetivo-analisar-dados-da-pnad-durante-a-pandemia-covid-19-e-analisar-comportamentos-e-poss%C3%ADveis-956c107c3bd4
+
+**Pipeline para analise de dados**
+
+1) Extraido base de dados no formato .CSV do IBGE PNAD COVID19
+2) Feito a ingestão do .CSV dentro do Google Colar.
+4) Transformado em arquivo .PARQUET para poupar armazenamento e processamento de maquina, uma vez que o formato .parquet é colunar.
+5) Feito upload dos arquivos .parquet para o Github
+6) Google colab para consumir os arquivos direto do Github
+7) Realizado o ETL para tratar os dados do IBGE
+8) Realizado as analises exploratorios para extração de ideias para o tema proposto
+9) Elaborado o documento final com as analises realizadas.
