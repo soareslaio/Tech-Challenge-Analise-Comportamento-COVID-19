@@ -22,7 +22,7 @@ A PNAD, conduzida pelo IBGE, investiga várias características da população b
     
 **Principais Resultados**
   - Maioria dos entrevistados residia em áreas urbanas, principalmente nas capitais estaduais.
-  - Predominância de mulheres, faixa etária entre 30 e 50 anos, e cor predominante branca ou parda.
+  - Predominância de mulheres, faixa etária entre 10 e 60 anos, e cor predominante branca ou parda.
   - Grande parte possuía ensino fundamental incompleto ou médio completo, e a maioria frequentou aulas presenciais ou semipresenciais durante a pandemia.
     
 **Sintomas e Doenças Preexistentes**
