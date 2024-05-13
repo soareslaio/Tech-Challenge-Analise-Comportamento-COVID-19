@@ -44,11 +44,11 @@ Análise aprofundada: https://medium.com/@laiosoares6/objetivo-analisar-dados-da
 
 ![alt text](https://github.com/soareslaio/Tech-Challenge-Analise-Comportamento-COVID-19/blob/main/Fluxograma_analise_dados/analise_dados_pnad_covid19.png?raw=true)
 
-1) Extraido base de dados no formato .CSV do IBGE PNAD COVID19
-2) Feito a ingestão do .CSV dentro do Google Colar.
-4) Transformado em arquivo .PARQUET para poupar armazenamento e processamento de maquina, uma vez que o formato .parquet é colunar.
+1) Extraído base de dados no formato .CSV do IBGE PNAD COVID19
+2) Feito a ingestão do .CSV dentro do Google Colab.
+4) Transformado em arquivo .PARQUET para poupar armazenamento e processamento de máquina, uma vez que o formato .parquet é colunar.
 5) Feito upload dos arquivos .parquet para o Github
 6) Google colab para consumir os arquivos direto do Github
 7) Realizado o ETL para tratar os dados do IBGE
-8) Realizado as analises exploratorios para extração de ideias para o tema proposto
-9) Elaborado o documento final com as analises realizadas.
+8) Realizado as análises exploratórios para extração de ideias para o tema proposto
+9) Elaborado os documentos finais com as análises realizadas.
