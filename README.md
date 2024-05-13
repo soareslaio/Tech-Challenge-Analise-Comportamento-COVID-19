@@ -1,17 +1,21 @@
 # Tech-Challenge-3-Analise-Comportamento-COVID-19
 Analisar o comportamento da população durante a pandemia do COVID - 19
 
-**Objetivo:**  Elabore 20 perguntas que respondam: Quais seriam o comportamento da população na época da pandemia da COVID - 19, Caracteristicas Clinicas dos sintomas, caracteristicas da população, caracteristiacas economicas da sociedade? Além de elaborar principais ações que o hospital deverá tomar em caso de um novo surto de COVID - 19.
+**Objetivo:** Analisar dados da PNAD durante a pandemia Covid-19 e analisar comportamentos e possíveis soluções caso tenha um novo surto.
 
-**Pesquisa Nacional por Amostra de Domicílios (PNAD)**
-A PNAD, conduzida pelo IBGE, investiga várias características da população brasileira, incluindo educação, trabalho, rendimento e habitação.
-
-**Características da População Analisadas**
+**Características da população**
   - Mapeamento da situação domiciliar e tipos de área, incluindo áreas urbanas e regiões específicas.
   - Demografia: sexo, cor ou raça, e faixa etária dos entrevistados.
   - Educação: frequência escolar e escolaridade.
   - Participação em aulas presenciais durante a pandemia.
-    
+
+**Características econômicas da população**
+- A maioria (75%) dos entrevistados recebeu alguma forma de renda do governo, como aposentadoria, pensão ou auxílios.
+- A média de renda desses beneficiários foi de R$ 1.145,89, 4,17% superior ao salário mínimo vigente na época.
+- Cerca de 20% dos entrevistados receberam dois ou mais benefícios.
+- Aproximadamente 70% das pessoas trabalharam de forma remota durante a pandemia.
+- Predominância de faixas de rendimento entre R$ 801 a R$ 1.600 e de R$ 1.600 a R$ 3.000 entre os entrevistados.
+  
 **Principais Resultados**
   - Maioria dos entrevistados residia em áreas urbanas, principalmente nas capitais estaduais.
   - Predominância de mulheres, faixa etária entre 10 e 60 anos, e cor predominante branca ou parda.
@@ -23,11 +27,11 @@ A PNAD, conduzida pelo IBGE, investiga várias características da população b
 **Medidas e Acesso à Saúde**
   - A maioria adotou medidas restritivas para evitar a propagação do vírus.
   - Acesso aos serviços de saúde, com destaque para o Sistema Único de Saúde (SUS).
-  - Preferência por testes rápidos e suas implicações na detecção precoce.
+  - Preferência por testes rápidos.
     
 **Modelo Preditivo e Conclusões**
   - Utilização de dados da PNAD para desenvolver um modelo preditivo de infecção por COVID-19.
-  - Análise estatística e modelagem para prever resultados de testes de COVID-19 com base em características demográficas e condições pré-existentes.
+  - Análise estatística e modelagem para prever resultados de testes de COVID-19.
   - Resultados do modelo indicaram uma capacidade sólida de previsão, com espaço para otimização contínua.
     
 Análise aprofundada: https://medium.com/@laiosoares6/objetivo-analisar-dados-da-pnad-durante-a-pandemia-covid-19-e-analisar-comportamentos-e-poss%C3%ADveis-956c107c3bd4
