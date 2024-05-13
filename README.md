@@ -42,6 +42,8 @@ Análise aprofundada: https://medium.com/@laiosoares6/objetivo-analisar-dados-da
 
 **Pipeline para analise de dados**
 
+![alt text](https://github.com/soareslaio/Tech-Challenge-Analise-Comportamento-COVID-19/blob/main/Fluxograma_analise_dados/analise_dados_pnad_covid19.png?raw=true)
+
 1) Extraido base de dados no formato .CSV do IBGE PNAD COVID19
 2) Feito a ingestão do .CSV dentro do Google Colar.
 4) Transformado em arquivo .PARQUET para poupar armazenamento e processamento de maquina, uma vez que o formato .parquet é colunar.
