@@ -44,7 +44,9 @@ Análise aprofundada: https://medium.com/@laiosoares6/objetivo-analisar-dados-da
 
 ![alt text](https://github.com/soareslaio/Tech-Challenge-Analise-Comportamento-COVID-19/blob/main/Fluxograma_analise_dados/analise_dados_pnad_covid19.png?raw=true)
 
-1) Extraído base de dados no formato .CSV do IBGE PNAD COVID19
+Durante o desenvolvimento do projeto foi analisado dentro do Bigquery a estrutura dos dados e também qual seria o pipeline para a entrega final. Mas optamos por seguir com a solução acima, pois era a mais eficiente para o objetivo do projeto, uma vez que ao importar os dados no formato .parquet diretamente do GitHub mostrou ser mais veloz do que diretamente do BigQuery para o Google Colab.
+
+1) Extraído base de dados no formato .CSV do site do IBGE PNAD COVID19
 2) Feito a ingestão do .CSV dentro do Google Colab.
 4) Transformado em arquivo .PARQUET para poupar armazenamento e processamento de máquina, uma vez que o formato .parquet é colunar.
 5) Feito upload dos arquivos .parquet para o Github
